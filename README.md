@@ -2,7 +2,7 @@
 
 Finans ve teknolojiye olan ilgimi bir araya getirdiğim bu çalışmada, FinTech ekosisteminde finansal kararların insan uzmanlığı mı yoksa yapay zekâ mı tarafından daha etkili şekilde verilebileceğini araştırdım.
 
-Güncel akademik çalışmalar ve sektör kaynakları üzerinden insan ve yapay zekâyı; veri işleme kapasitesi, hız, belirsizlik altında karar verme, bağlamsal yorumlama, etik sorumluluk ve güvenilirlik gibi başlıklarda karşılaştırdım.
+Güncel akademik çalışmalar ve sektör raporları üzerinden insan ve yapay zekâyı; veri işleme kapasitesi, hız, belirsizlik altında karar verme, bağlamsal yorumlama, etik sorumluluk ve güvenilirlik gibi başlıklarda karşılaştırdım.
 
 ## Öne Çıkan Bulgular
 
